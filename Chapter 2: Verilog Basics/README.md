@@ -1,0 +1,1 @@
+In this chapter, we will cover the fundamental aspects of Verilog. We will explore Verilog data types, operators, module structure, and the two modeling styles: behavioral and structural. Additionally, we will introduce testbenches and simulations for verifying Verilog designs.
