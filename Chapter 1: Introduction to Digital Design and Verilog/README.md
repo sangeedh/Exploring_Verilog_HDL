@@ -1,1 +1,2 @@
-In this chapter, we will provide an overview of digital design concepts and introduce the importance of Verilog as a hardware description language. We will also explore Verilog development tools and simulators that aid in the design and verification process.
+In this chapter, we will provide an overview of digital design concepts and introduce the importance of Verilog as a hardware description language. We will also explore Verilog development tools and simulators that aid in the design and verification process.<br />
+These example codes showcase various concepts in digital design and demonstrate how Verilog can be used to describe digital circuits. In the following chapters, we will delve deeper into these concepts and explore more advanced applications of Verilog.
